@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dwip708
 - 👀 I’m interested in Coding, working in different projects, learning more about technology.
-- 🌱 I’m currently pursuing B.tech in Computer Science from Jadavpur University,Kolkata, India.
+- 🌱 I’m currently pursuing B.E. in Computer Science from Jadavpur University,Kolkata, India.
 - Reach me at brahma.dwip.56@gmail.com
 - I love spending my free time in baking, flute playing, chess.
 

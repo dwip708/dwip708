@@ -38,8 +38,10 @@
 
 ### 🏆 Achievements & Contributions
 
-![Hacktoberfest](https://img.shields.io/badge/-Hacktoberfest-FF4500?style=flat-square&logo=hacktoberfest&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+[![Hacktoberfest](https://img.shields.io/badge/-Hacktoberfest-FF4500?style=flat-square&logo=hacktoberfest&logoColor=white)](https://holopin.io/@dwip708)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/piwd_sedoc/)
+
 ![GitHub](https://img.shields.io/badge/-Open%20Source-0A0A0A?style=flat-square&logo=github&logoColor=white)
 
 ---
